@@ -35,6 +35,7 @@ data/
 
 
 [From NBA Injuries](https://www.kaggle.com/ghopkins/nba-injuries-2010-2018)
+
 -->injuries_2010-2020.csv
 
 All paths used are relative.
