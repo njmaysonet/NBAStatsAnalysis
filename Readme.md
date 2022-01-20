@@ -8,8 +8,17 @@ Nestor J. Maysonet writing for Group 9
 ### Mohammed Aquib Khan
 ### Charles Wardlow
 
+## Project Overview
 
+This project's goal is to find possible common factors behind injury occurrences, show visualizations, create models,
+and ultimately provide insight and analysis into how injuries occur and how they could be reduced in the future. The
+datasets in this project contained 600,000 samples of information about games, player statistics, and injury details,
+which was ultimately pared down to about 10,000 samples via preprocessing.
 
+The NBA itself in recent years, as is the trend worldwide, has embraced data analytics. Player injury is especially
+volatile and can rapidly change the prospects of a team's fate. Finding strong associations in the data and being
+able to model the phenomena would be a boon to coaches, managers, players, and fans looking to play fantasy or bet
+on live games.
 
 ## Instructions to run the notebooks.
 
