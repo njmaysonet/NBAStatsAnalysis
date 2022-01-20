@@ -1,5 +1,17 @@
-## CAP5678 - Group 9 - NBA Stats / Injuries Project
-# Nestor J. Maysonet writing for Group 9
+# CAP5678 - Group 9 - NBA Stats / Injuries Project
+Nestor J. Maysonet writing for Group 9
+
+
+### Members:
+### Andres Canaveral
+### Nestor Maysonet
+### Mohammed Aquib Khan
+### Charles Wardlow
+
+
+
+
+## Instructions to run the notebooks.
 
 Please make a folder titled 'data' in the same directory as the notebooks.
 
