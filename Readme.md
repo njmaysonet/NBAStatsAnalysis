@@ -20,6 +20,8 @@ volatile and can rapidly change the prospects of a team's fate. Finding strong a
 able to model the phenomena would be a boon to coaches, managers, players, and fans looking to play fantasy or bet
 on live games.
 
+The final report file contains the full report on the project.
+
 ## Results
 
 To-Do summarize results from paper.
